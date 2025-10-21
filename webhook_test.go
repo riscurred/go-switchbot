@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/nasa9084/go-switchbot/v5"
+	"github.com/riscurred/go-switchbot"
 )
 
 func TestWebhookSetup(t *testing.T) {
